@@ -1,0 +1,6 @@
+D:\C#\LabNo1\LabNo1\bin\LabNo1.dll.config
+D:\C#\LabNo1\LabNo1\bin\LabNo1.dll
+D:\C#\LabNo1\LabNo1\bin\LabNo1.pdb
+D:\C#\LabNo1\LabNo1\obj\Debug\LabNo1.csprojResolveAssemblyReference.cache
+D:\C#\LabNo1\LabNo1\obj\Debug\LabNo1.dll
+D:\C#\LabNo1\LabNo1\obj\Debug\LabNo1.pdb
